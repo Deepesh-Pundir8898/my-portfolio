@@ -29,6 +29,9 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import chatapp from "./chatapp.png";
+import reactEcommerce from "./react-ecommerce.png";
+import contactList from "./contact-list.png";
 
 export {
   logo,
@@ -59,4 +62,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  chatapp,
+  reactEcommerce,
+  contactList,
 };
